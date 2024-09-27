@@ -37,8 +37,8 @@
 **Repository Klonlama**
 
 ```bash
-git clone https://github.com/uzeyir06/video-paylasim-uygulama-react.git
-cd video-paylasim-uygulama-react
+git clone https://github.com/uzeyir06/video-paylasim-uygulama-react.git](https://github.com/uzeyir06/video-sharing-app-react-native-react.git
+cd video-sharing-app-react-native-react
 ```
 
 <div class="markdown prose w-full break-words dark:prose-invert dark">
