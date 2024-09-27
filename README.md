@@ -1,6 +1,15 @@
 <div align="center">
 
   <h3 align="center">Video Paylaşım Uygulaması</h3>
+  ![IMG-20240926-WA0018](https://github.com/user-attachments/assets/6ecca83b-0772-4bfc-9f87-5c01c713f47c)
+![IMG-20240926-WA0017](https://github.com/user-attachments/assets/0c1aa075-1832-478a-891a-32c79afce482)
+![IMG-20240926-WA0016](https://github.com/user-attachments/assets/4eb44519-a854-48b7-9379-4c5414d1d413)
+![IMG-20240926-WA0015](https://github.com/user-attachments/assets/9746b9e3-5861-46d6-a19a-64140b0ce8c9)
+![IMG-20240926-WA0014](https://github.com/user-attachments/assets/7110134e-79b1-4a25-89d1-745ed34b0a11)
+![IMG-20240926-WA0013](https://github.com/user-attachments/assets/84f2800a-70d7-478b-960f-882153299359)
+![IMG-20240926-WA0012](https://github.com/user-attachments/assets/6d6ec0e8-65bf-4206-b36b-da7baf3f4e35)
+![IMG-20240926-WA0011](https://github.com/user-attachments/assets/ecfb7922-479e-4e43-8e78-bf36ceb89aaa)
+
 </div>
 
 ## <a name="tech-stack">⚙️ Kütüphaneler ve Teknolojiler</a>
