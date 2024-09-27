@@ -1,13 +1,31 @@
 <div align="center">
 
   <h3 align="center">Video Paylaşım Uygulaması</h3>
+  <div style="display:flex">
+  <div>
   <img src="https://github.com/user-attachments/assets/6ecca83b-0772-4bfc-9f87-5c01c713f47c">
+  </div>
+  <div>
   <img src="https://github.com/user-attachments/assets/4eb44519-a854-48b7-9379-4c5414d1d413">
-  <img src="https://github.com/user-attachments/assets/9746b9e3-5861-46d6-a19a-64140b0ce8c9">
-  <img src="https://github.com/user-attachments/assets/7110134e-79b1-4a25-89d1-745ed34b0a11">
-  <img src="https://github.com/user-attachments/assets/84f2800a-70d7-478b-960f-882153299359">
-  <img src="https://github.com/user-attachments/assets/6d6ec0e8-65bf-4206-b36b-da7baf3f4e35">
-  <img src="https://github.com/user-attachments/assets/ecfb7922-479e-4e43-8e78-bf36ceb89aaa">
+  </div>
+
+  <div> 
+    <img src="https://github.com/user-attachments/assets/9746b9e3-5861-46d6-a19a-64140b0ce8c9">
+  </div>
+  
+  <div> 
+    <img src="https://github.com/user-attachments/assets/7110134e-79b1-4a25-89d1-745ed34b0a11">
+  </div>
+  <div> 
+    <img src="https://github.com/user-attachments/assets/84f2800a-70d7-478b-960f-882153299359">
+  </div>
+  <div> 
+   <img src="https://github.com/user-attachments/assets/6d6ec0e8-65bf-4206-b36b-da7baf3f4e35">
+  </div>
+  <div> 
+   <img src="https://github.com/user-attachments/assets/ecfb7922-479e-4e43-8e78-bf36ceb89aaa">
+  </div>
+  </div>
 </div>
 
 ## <a name="tech-stack">⚙️ Kütüphaneler ve Teknolojiler</a>
